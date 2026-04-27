@@ -105,7 +105,7 @@ Diferencias con Proyecto 3 (blockchain-api):
 
 Aspecto	            Proyecto 3	              Proyecto 4
 Persistencia	     Acoplada	        Desacoplada (Repository)
-DB	        Solo memoria/file	File + Mongo intercambiable
+DB	            Solo memoria/file	    File + Mongo intercambiable
 Arquitectura	     Parcial	        Clean Architecture
 Configuración	   Hardcodeada	        .env
 Minería	              Básica	        Asíncrona (non-blocking)
